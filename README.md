@@ -8,6 +8,7 @@ My background is in retail operations, project management and automation, which 
 
 **Projects**
 - [WhatsApp booking for a barbershop](https://github.com/pedroavoc-dev/barbershop-whatsapp-booking): customers book in chat, barbers get alerts and reminders, live dashboard. Node 24, Meta Cloud API, zero dependencies, 96-check smoke test.
+- [Alice, a WhatsApp AI agent for driver recruitment](https://github.com/pedroavoc-dev/alice-case-study): case study of an agent I run in production. Edge Worker that verifies Meta's signature, Postgres schema, data anonymiser, and what the numbers taught me.
 
 **Tools I use:** Node.js · n8n · WhatsApp Cloud API · OpenAI API · SQL (SQLite, Postgres) · Cloudflare Workers · Claude Code
 
